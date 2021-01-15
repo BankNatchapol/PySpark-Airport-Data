@@ -61,7 +61,7 @@ To get all airports that latitude > 40.
 
 Facebook - [@Natchapol Patamawisut](https://www.facebook.com/natchapol.patamawisut/)
 
-Project Link: [https://github.com/BankNatchapol/AWS-Data-Warehouse-ETL](https://github.com/BankNatchapol/AWS-Data-Warehouse-ETL)
+Project Link: [https://github.com/BankNatchapol/PySpark-Airport-Data](https://github.com/BankNatchapol/PySpark-Airport-Data)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
