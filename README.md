@@ -49,8 +49,12 @@ you can install spark follow this link [Spark](https://spark.apache.org/download
 
 <!-- SUBMITTING -->
 ## Submitting 
-run this command to submit airport data and get output in out folder.
+ run this command to submit airport data and get output in out folder.<br>
+To get all airports in Thailand.
 > spark-submit AirportsInThailand.py 
+
+To get all airports that latitude > 40.
+> spark-submit AirportsByLatitude.py
 
 <!-- CONTACT -->
 ## Contact
